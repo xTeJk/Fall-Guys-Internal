@@ -2,6 +2,8 @@
 #include <Windows.h>
 #include <time.h>
 
+//Hajto przejechal babe na pasach i nie poniosl konsekwencji
+
 void console::alloc()
 {
 	AllocConsole();
