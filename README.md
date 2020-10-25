@@ -1,5 +1,6 @@
 ![logo](https://i.imgur.com/gDbunES.png)  
 Fall Guys - Free Advanced Internal Cheat - 1.2_5 - 20.08.2020  
+Cheat is out of date, using it can expose your account to a ban!  
 [![Discord](https://img.shields.io/discord/748288505507217428.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/AEfuvwT)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/xtejk)
   
